@@ -93,11 +93,11 @@ body {
 
 @media (max-width: 550px) {
     .main {
-        padding-top: 50px;
+        padding-top: 25px;
         justify-content: flex-start;
     }
     .logo img {
-        max-height: 265px;
+        max-height: 205px;
     }
 
     .cards .card {
